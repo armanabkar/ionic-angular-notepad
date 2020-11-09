@@ -1,7 +1,7 @@
 # Angular Notepad
 
 <h2 align="center">
-  <img src="https://github.com/armanabkar/VuePinterest/blob/main/screenshots/HomePage.png" alt="Notepad" width="600px" />
+  <img src="https://github.com/armanabkar/ionic-angular-notepad/blob/main/screenshot.png" alt="Notepad" width="650px" />
   <br>
 </h2>
 
