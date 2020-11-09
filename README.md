@@ -6,7 +6,8 @@
 </h2>
 
 
-A simple notepad PWA built with Ionic & Angular
+A simple notepad PWA built with Ionic & Angular.
+[Check the live version](https://ionic-angular-notepad.netlify.app/)
 
 ## Installation & Usage
 1. Clone the repository
